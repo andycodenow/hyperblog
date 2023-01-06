@@ -1,5 +1,9 @@
 body {
-    color: deeppink;
+    color: black;
     text-align: center;
     font-family: "Arial";
+}
+#container {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serifS;
 }
