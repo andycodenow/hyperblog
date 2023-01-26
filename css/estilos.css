@@ -50,3 +50,8 @@ body
     background: white;
     padding: 1em;
 }
+#footer {
+    color: blue;
+    text-align: center;
+    background-color: goldenrod;
+}
