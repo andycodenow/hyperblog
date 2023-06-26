@@ -8,4 +8,6 @@ Andrés tiene 26 años y está aprendiendo git y github
 
 Master 1
 
+Master 2
+
 Mañana nos enfocaremos en su vida laboral
